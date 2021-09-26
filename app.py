@@ -10,7 +10,7 @@ import pandas as pd
 # In[5]:
 
 
-data=pd.read_csv("d:50_Startups.csv")
+data=pd.read_csv("50_Startups.csv")
 
 
 # In[6]:
