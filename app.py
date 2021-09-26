@@ -52,7 +52,7 @@ ypred=model.predict(xtest)
 from flask import Flask,render_template,request
 app=Flask(__name__)
 @app.route('/')
-def kjgfkjgjkg('/'):
+def kjgfkjgjkg():
     return render_template('pro.html')
 @app.route('/info',methods=['GET','POST'])
 def kjgkjgkjg():
